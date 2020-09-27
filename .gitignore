@@ -1,0 +1,5 @@
+docs
+.history
+.vscode
+node_modules
+yarn.lock
