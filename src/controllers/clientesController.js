@@ -1,4 +1,3 @@
-let moment = require('moment');
 /**
  * @module clientes
  */
