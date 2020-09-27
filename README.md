@@ -2,6 +2,7 @@
 Configurar o banco de dados Mysql no arquivo `src\database\knexfile.js`
 
 ## Comandos
-* `npm start` - Para iniciar o serviço em produção
-* `npm dev` - Para iniciar o serviço em desenvolvimento
-* `npm docs` - Para gerar a documentação do serviço (será criada a pasta `docs` com a documentação).
+* `npm install` - Instalar dependências
+* `npm start` - Iniciar o serviço em produção
+* `npm dev` - Iniciar o serviço em desenvolvimento
+* `npm docs` - Gerar a documentação do serviço (será criada a pasta `docs` com a documentação).
